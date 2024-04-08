@@ -38,4 +38,4 @@ The feature selection techniques used are:
 ![Alt text](<Screenshot 2024-04-08 113022.png>)
 ![Alt text](<Screenshot 2024-04-08 113033.png>)
 # RESULT:
-     
+   Thus the Feature Scaling and Feature Selection process  program is executed successfully!  
